@@ -256,6 +256,8 @@ if __name__ == '__main__':
     else:
         print "*"*30
         print "The required file is not in the folder, please check. "
+        print "You can download the file from this link---> "
+        print "https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59"
         print "*"*30
 
 
